@@ -1,6 +1,6 @@
-# vue-cli-origin
+# gobang
 
-> A Vue.js project
+> 学习下大佬的五子棋
 
 ## Build Setup
 
